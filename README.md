@@ -1,4 +1,4 @@
 # Connectedness-In-Market
 
 This is a Python code to calculate connectedness between between 'Open' and 'Close' column of a dataset . 
-It uses covariance values and then applies ' diebold yilmaz spillover index ' model to make a connectedness matrix.
+It calculates covariance values and then applies ' diebold yilmaz spillover index ' model to make a connectedness matrix.
